@@ -3,6 +3,8 @@ game "gta5"
 
 author "L'kid"
 
+this_is_a_map "yes"
+
 files {
     "data/**/*.meta",
     "data/**/*.xml",
@@ -26,6 +28,8 @@ data_file "AUDIO_DYNAMIXDATA" "audio/dlc24-2_mix.dat"
 data_file "AUDIO_SYNTHDATA" "audio/dlc24-2_amp.dat"
 data_file "AUDIO_SPEECHDATA" "audio/dlc24-2_speech.dat"
 data_file "AUDIO_WAVEPACK" "audio/sfx/dlc_24-2"
+data_file "DLC_ITYP_REQUEST" "stream/[map]/[airstrip]/m24_2_mp2024_02_additions_metadata_001.ytyp"
+data_file "DLC_ITYP_REQUEST" "stream/[map]/[airstrip]/m24_2_mp2024_02_additions_metadata_001_strm.ytyp"
 
 client_scripts {
     "vehicle_name.lua",
