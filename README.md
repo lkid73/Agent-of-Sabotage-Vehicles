@@ -1,7 +1,7 @@
 # Agent of Sabotage Vehicles
 Here is the FiveM resource of the latest GTA : Online DLC [Agent of Sabotage]
 # Bugs
-- None
+- NTitan2 doesn't fly, can't fix it.
 
 Any bugs can be reported to my [Discord](https://discord.com/invite/MCK7wFwV3q)
 # Installation
